@@ -1,0 +1,14 @@
+(cl:in-package comm_to_nrp-msg)
+(cl:export '(ACTIVATEHUMERUS1-VAL
+          ACTIVATEHUMERUS1
+          ACTIVATEHUMERUS2-VAL
+          ACTIVATEHUMERUS2
+          ACTIVATERADIUS1-VAL
+          ACTIVATERADIUS1
+          ACTIVATERADIUS2-VAL
+          ACTIVATERADIUS2
+          ACTIVATEFOOT1-VAL
+          ACTIVATEFOOT1
+          ACTIVATEFOOT2-VAL
+          ACTIVATEFOOT2
+))

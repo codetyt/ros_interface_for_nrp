@@ -1,0 +1,8 @@
+prefix=/home/yamada/ros_to_nrp/install
+
+Name: comm_to_nrp
+Description: Description of comm_to_nrp
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

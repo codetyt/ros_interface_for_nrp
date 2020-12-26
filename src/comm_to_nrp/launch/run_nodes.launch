@@ -1,0 +1,9 @@
+<launch>
+  <node pkg="comm_to_nrp" name="Humerus1" type="Humerus1"/>
+  <node pkg="comm_to_nrp" name="Humerus2" type="Humerus2"/>
+  <node pkg="comm_to_nrp" name="Radius1" type="Radius1"/>
+  <node pkg="comm_to_nrp" name="Radius2" type="Radius2"/>
+  <node pkg="comm_to_nrp" name="Foot1" type="Foot1"/>
+  <node pkg="comm_to_nrp" name="Foot2" type="Foot2"/>
+  <node pkg="comm_to_nrp" name="sub" type="sub"/>
+</launch>
